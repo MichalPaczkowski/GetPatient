@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "928611341880",
+    "firebase_url": "https://patientsdb-18075-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "patientsdb-18075",
+    "storage_bucket": "patientsdb-18075.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928611341880:android:bda25dff63319c8e15b8cd",
+        "android_client_info": {
+          "package_name": "com.example.patients"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJ-4xtD5DQKj13DmYm-PQ-HdB9x7FyME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
